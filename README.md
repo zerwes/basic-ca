@@ -17,6 +17,8 @@ edit `ca.cfg` and `ssl.cfg`
 
 ## gen CA
 
+edit ths script and set the CN for the CA; then run:
+
 `./genCA.sh`
 
 ## gen ocsp signing cert
