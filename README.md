@@ -13,7 +13,7 @@ edit `ca.cfg` and `ssl.cfg`
    * `new_oids` if required
  * in `ssl.cfg`
    * `UMAIL` env var
- * CA name defaults to ... ** CA** :-) but can can be adjusted (`ca.cfg` and `ssl.cfg`)
+ * CA name defaults to ... **CA** :-) but can can be adjusted (`ca.cfg` and `ssl.cfg`)
 
 ## gen CA
 
