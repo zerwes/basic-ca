@@ -3,7 +3,7 @@ some sample scripts to setup and maintain a basic CA with openssl
 
 # setup
 
-## 1. edit cfg
+## edit cfg
 
 edit `ca.cfg` and `ssl.cfg`
 
