@@ -9,7 +9,7 @@ edit `ca.cfg` and `ssl.cfg`
 
  * in `ca.cfg`
    * settings in `req_distinguished_name` section
-   * `nsCaRevocationUrl`, `crlDistributionPoints` and `authorityInfoAccess` (multiple occurrence)
+   * `nsCaRevocationUrl`, `crlDistributionPoints` and `authorityInfoAccess` (multiple occurrence, dito in the èxtension.*` files)
    * `new_oids` if required
  * in `ssl.cfg`
    * `UMAIL` env var
