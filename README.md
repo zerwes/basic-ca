@@ -49,7 +49,7 @@ test a existing cert
 
 `./testOCSPserver.sh [CN]`
 
-the ocsp check can be used with a serial too, not just with existing certs
+the ocsp check can be used with a serial too, not just with existing certs; just use `-serial $SN` instead of `-cert $CERT`
 
 ## other scripts
 
