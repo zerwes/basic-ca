@@ -1,0 +1,4 @@
+[ v3_req ]
+extendedKeyUsage       = serverAuth, clientAuth, IPSecOID
+crlDistributionPoints  = URI:http://crl.ca.zero-sys.net/crl.pem
+authorityInfoAccess    = OCSP;URI:http://ocsp.ca.zero-sys.net
